@@ -1,0 +1,30 @@
+.mtext {font-family:"新細明體";font-size:16px;line-height:18px;}
+.stext {font-family:"新細明體";font-size:13px;}
+.mbody {font-family:"新細明體";font-size:16px;line-height:150%;}
+.sbody {font-family:"新細明體";font-size:13px;line-height:150%;}
+.emtext {font-family:"arial,helvetica,serif"; font-size:14px;}
+.estext {font-family:"arial", "helvetica"; font-size:13px;}
+.title {FONT-SIZE: 16pt; LINE-HEIGHT: 18pt; FONT-FAMILY: "標楷體"}
+.maf {font-family:"新細明體";font-size:12px;line-height:150%;}
+.ctitle {font-family:"標楷體";font-size: 18pt;line-height:20pt}
+.navbar {background-color: #4A4ABF}
+.leftbg {background-color: #e9e9f8}
+.lefttitle {background-color: #8989d8}
+.loginbox {  height: 22px; border: #999999; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.pbox{ height: 22px }
+a:hover {  font-family: ""; color: #ff0000}
+a:active{font-family:"";color:#ff0000}
+a:link{font-family:"";color:#0000bb}
+a:visited{font-family:"";color:#800080}
+ 
+.class {
+	font-family: "標楷體";
+	font-size: 18px;
+	line-height: 18px;
+	font-weight: normal;
+}
+
+
+form{margin:0} 
+.text01 {font-size: 16px;color: #092679; text-decoration: none; line-height:150%;letter-spacing:1px}
+.text02 {font-size: 13px;color: #092679;text-decoration: none;line-height:150%;letter-spacing:1px}
